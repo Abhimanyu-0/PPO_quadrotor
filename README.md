@@ -101,13 +101,12 @@ The trained policy successfully:
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## References
 
-## 🔗 Citation
+Useful reference: [https://github.com/EmbersArc/PPO/blob/master/best-practices-ppo.md](url)
 
-If you use this code in your research, please cite:
+
 
 
 ## Acknowledgments
