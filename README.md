@@ -114,3 +114,4 @@ If you use this code in your research, please cite:
 
 - [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) for the RL framework
 - [Gymnasium](https://gymnasium.farama.org/) for the environment structure
+- To professor Ludovic Righetti and TA Armand Jordana at NYU 
