@@ -6,7 +6,7 @@
 
 A sophisticated implementation of autonomous 2D quadrotor control using Deep Reinforcement Learning. This project demonstrates how to train a quadrotor to navigate to target positions while avoiding obstacles using Proximal Policy Optimization (PPO).
 
-![Quadrotor Demonstration](quadrotor.png)
+![Quadrotor Demonstration]()
 
 ## 🚀 Features
 
