@@ -45,7 +45,7 @@ pip install -r requirements.txt
 To train the quadrotor control policy:
 
 ```bash
-python train.py
+Run the jupyter notebook 
 ```
 
 The script implements PPO with the following key hyperparameters:
